@@ -1,0 +1,22 @@
+JetBrains Toolbox
+
+INSTALLATION INSTRUCTIONS
+===============================================================================
+
+  1. Unpack the downloaded JetBrains Toolbox App distribution archive to the
+     location where you want to install the program. We will refer to this location
+     as your <installation-directory>.
+
+       tar -xvf jetbrains-toolbox-<version>.tar.gz -C <installation-directory>
+
+  2. To start the application, open a console, cd into <installation-directory> and type:
+
+       ./bin/jetbrains-toolbox
+
+     This will initialize various Toolbox application files in the application directory:
+     ~/.local/share/JetBrains/Toolbox
+
+     Upon the first launch, JetBrains Toolbox App will also create a
+     .desktop entry file in ~/.local/share/applications
+
+===============================================================================

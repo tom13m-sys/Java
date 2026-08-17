@@ -1,0 +1,2 @@
+JAVA_VERSION="25.0.2"
+MODULES="java.base java.datatransfer java.xml java.prefs java.desktop java.logging java.management java.security.sasl java.naming java.rmi java.security.jgss jdk.accessibility jdk.internal.jvmstat jdk.attach jdk.crypto.ec jdk.jcmd jdk.management jdk.security.auth"

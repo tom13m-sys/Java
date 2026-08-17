@@ -1,0 +1,14 @@
+app-starter.jar
+kotlin-reflect-2.3.21-RC2.jar
+kotlin-stdlib-2.3.21-RC2.jar
+kotlinx-coroutines-core-jvm-1.10.2.jar
+kotlinx-serialization-core-jvm-1.9.0.jar
+kotlinx-serialization-json-jvm-1.9.0.jar
+logging-bootstrap.jar
+platform-image.jar
+platform-resource.jar
+plugin-api-core.jar
+plugin-api-localization.jar
+plugin-api-remote-dev.jar
+plugin-api-ui.jar
+slf4j-api-2.0.17.jar

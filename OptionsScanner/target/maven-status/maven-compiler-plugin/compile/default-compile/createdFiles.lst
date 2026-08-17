@@ -1,0 +1,8 @@
+iot/test/TestDataGenerator.class
+iot/test/TestDataGenerator$CustomerSimulator.class
+iot/data/Measurement.class
+iot/etl/AnomalyDetectionJob$DedupFunction.class
+iot/etl/AnomalyDetectionJob$AnomalyWindowFunction.class
+iot/etl/AnomalyDetectionJob.class
+iot/gateway/MeasurementApi.class
+iot/etl/AnomalyDetectionJob$LocalQueueSource.class
